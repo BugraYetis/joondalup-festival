@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎪 Joondalup Festival 2026
+# 🌊 Joondalup Festival 2026
 
 **Festival / Etkinlik · Perth**
 
