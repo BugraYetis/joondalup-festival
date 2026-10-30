@@ -1,20 +1,47 @@
-# 🌊 Joondalup Festival 2026 — Perth, Avustralya
+<div align="center">
 
-> Avustralya'nın en büyük festivallerinden biri için tam kapsamlı web sitesi
+# 🎪 Joondalup Festival 2026
 
-## 🌐 Demo
-**[joondalupfestival.com.au](https://joondalupfestival.com.au/)**
+**Festival / Etkinlik · Perth**
 
-## ✨ Özellikler
-- WordPress altyapısı ile dinamik içerik yönetimi
-- Festival programı & etkinlik takvimi
-- Sanatçı profil sayfaları
-- Bilet satış entegrasyonu
-- Mobil uyumlu responsive tasarım
-- SEO optimizasyonu
+<img src="https://bugrayetis.github.io/yeni/assets/covers/joondalup-festival-2026.jpg" width="100%" alt="Joondalup Festival 2026 ön izleme" />
 
-## 🛠️ Teknolojiler
-`WordPress` `Custom JS` `CSS3` `Responsive` `SEO`
+<br/><br/>
+
+<a href="https://bugrayetis.github.io/mevcut.html#proje-joondalup-festival-2026"><img src="https://img.shields.io/badge/🔍_Açıklama,_Ön_İzleme_ve_İçerik_İçin-Portfolyoma_Göz_At_→-6c63ff?style=for-the-badge" alt="Portfolyoda incele" /></a>
+
+</div>
 
 ---
-*Buğra Yetiş — MAE Reklam Ajansı*
+
+## 📌 Proje Hakkında
+
+Perth, Avustralya'daki 16 günlük kültürel festival için geliştirdiğim etkinlik sitesi. Sürrealist estetik, program vitrin, biletleme entegrasyonu ve bülten kayıt sistemi içeriyor.
+
+| | |
+|---|---|
+| **Kategori** | Festival / Etkinlik |
+| **Geliştirici** | Buğra Yetiş · MAE Reklam Ajansı |
+
+## 🛠️ Kullanılan Teknolojiler
+
+![WordPress](https://img.shields.io/badge/WordPress-1f2233?style=flat-square)
+![jQuery](https://img.shields.io/badge/jQuery-1f2233?style=flat-square)
+![Gravity Forms](https://img.shields.io/badge/Gravity_Forms-1f2233?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-1f2233?style=flat-square)
+
+## 🔒 Kaynak Kod
+
+Bu repo yalnızca projenin tanıtımını içerir. Müşteri gizliliği ve telif hakları nedeniyle kaynak kod paylaşılmıyor.
+Projeyi canlı görmek, ekran görüntülerine ve detaylarına bakmak için **[portfolyomdaki proje sayfasına](https://bugrayetis.github.io/mevcut.html#proje-joondalup-festival-2026)** göz atın.
+
+---
+
+<div align="center">
+
+<a href="https://bugrayetis.github.io/mevcut.html#proje-joondalup-festival-2026"><img src="https://img.shields.io/badge/🌐_Portfolyoda_İncele-bugrayetis.github.io-6c63ff?style=for-the-badge" /></a>
+<a href="https://github.com/BugraYetis"><img src="https://img.shields.io/badge/👤_Tüm_Projeler-BugraYetis-181717?style=for-the-badge&logo=github" /></a>
+
+<sub>Buğra Yetiş — Mid Web Developer & Grafik Tasarımcı · İstanbul</sub>
+
+</div>
